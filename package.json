@@ -1,0 +1,20 @@
+{
+  "name": "replace-plugin",
+  "version": "1.0.1",
+  "description": "Use this plugin to help you replace the contents of generated files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myZhangDong/ReplacePlugin.git"
+  },
+  "keywords": ["webpack plugin", "replace"],
+  "author": "East",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myZhangDong/ReplacePlugin/issues"
+  },
+  "homepage": "https://github.com/myZhangDong/ReplacePlugin#readme"
+}
